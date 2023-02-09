@@ -10,12 +10,9 @@
 在autodl封装的镜像名称为：finetune-for-diffusion  
 可在创建实例时直接选择公开的算法镜像使用。  
 在autodl内蒙A区A5000的机器上封装，如遇到问题且无法自行解决的朋友请使用同一环境。  
-白菜写教程时做了尽可能多的测试，但仍然无法确保每一个环节都完全覆盖    
-如有小错误可尝试手动解决，或者访问git项目地址查看最新的README  
-项目地址：https://github.com/CrazyBoyM/finetune-for-diffusion
 
-如果遇到问题可到b站主页找该教程对应训练演示的视频：https://space.bilibili.com/291593914
-（因为现在写时视频还没做）
+
+如果遇到问题可到b站主页找该项目对应教程：https://space.bilibili.com/291593914
 
 ## 最新操作文档请参考“运行.ipynb”
 
